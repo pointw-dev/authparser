@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
       name='authparser',
-      version='1.0',
+      version='1.1',
       author='Michael Ottoson',
       author_email='michael@pointw.com',
       description="Used to parse http Authentication headers, and to call handlers per scheme.",
